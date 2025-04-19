@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTOSH
 
-# API Integration and Data Visualization: A Comprehensive Description  
+# API Integration and Data Visualization: 
 This solution demonstrates how to fetch real-time weather data from the **OpenWeatherMap API** and visualize it using **Python** with **Matplotlib**, **Seaborn**, and **Dash** for interactive dashboards. The implementation includes data fetching, processing, static visualizations, and an interactive dashboard.  
 ---
 ## **1. API Integration**  
